@@ -1,4 +1,4 @@
-#include "flow_tree_io.h"
+#include "flow_tree_io.hpp"
 #include <sys/mman.h>
 void serialize_tree_node_optimized(tree_node * node,char * buffer, MODE m, int counter_type);
 
