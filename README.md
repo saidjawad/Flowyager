@@ -1,6 +1,6 @@
 # FlowYager Demo
 ## 1. Download the VM image
-You can download FlowYager VM image [here](https://nextcloud.mpi-klsb.mpg.de/index.php/s/ZiB52teaWeeW2sg). 
+You can download FlowYager VM image [here](https://inet-flowyager.mpi-inf.mpg.de/data/FlowStream-TNSM.ova). 
 ## 2. Run Flowyager Demo
 1. Import the VM on a hypervisor, e.g. VirtualBox, and start the VM.
 2. Enter with username=root and password=123. 
